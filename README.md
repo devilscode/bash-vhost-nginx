@@ -5,4 +5,4 @@ Bash script to setup virtual host in nginx
 sudo chmod +x create.sh
 
 ## Run script
-sudo ./create.sh <domain.com>
+sudo ./create.sh domain.com
